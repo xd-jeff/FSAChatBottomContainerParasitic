@@ -1,0 +1,8 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'FSAChatBottomContainerParasitic_Example' do
+  pod 'FSAChatBottomContainerParasitic', :git=> 'git@b1:xd-jeff/FSAChatBottomContainer.git', :commit => '508a726'
+
+end

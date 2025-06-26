@@ -1,0 +1,16 @@
+PODS:
+  - FSAChatBottomContainerParasitic (0.1.0)
+
+DEPENDENCIES:
+  - FSAChatBottomContainerParasitic (from `../`)
+
+EXTERNAL SOURCES:
+  FSAChatBottomContainerParasitic:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FSAChatBottomContainerParasitic: 6aa852fa6c939529857b2c53d11cc87f6f1d0327
+
+PODFILE CHECKSUM: d87c2b73cb3507c19a58b92ba45e4bec9f7dce9e
+
+COCOAPODS: 1.16.2
