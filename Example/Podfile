@@ -3,6 +3,6 @@ use_frameworks!
 platform :ios, '10.0'
 
 target 'FSAChatBottomContainerParasitic_Example' do
-  pod 'FSAChatBottomContainerParasitic', :git=> 'git@b1:xd-jeff/FSAChatBottomContainer.git', :commit => '508a726'
+  pod 'FSAChatBottomContainerParasitic', :git=> 'git@b1:xd-jeff/FSAChatBottomContainerParasitic.git', :commit => '830761d'
 
 end
